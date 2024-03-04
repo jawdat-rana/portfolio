@@ -1,3 +1,14 @@
+**About Me**
+
+Hello, my name is Jawdat Rana, and I'm a seasoned professional with a diverse background in the tech industry. I embarked on my career journey as a web developer, where I laid the foundation for my passion for technology. Intrigued by the world of data, I took the initiative to delve into this field independently.
+
+Over the past eight years, I've honed my expertise in various data-related roles, constantly expanding my knowledge base. I consider myself a self-learner, always eager to explore new technologies and methodologies. My journey has been marked by a strong focus on goals, consistently aiming for excellence and contributing meaningfully to each project I undertake.
+
+One of the aspects I find most rewarding in my career is problem-solving. I thrive on challenges and have a genuine love for creating efficient, automated solutions. This passion has not only fueled my professional growth but also allowed me to make impactful contributions to the projects I've been a part of.
+
+In essence, my journey reflects a commitment to continuous learning, goal orientation, and a deep enthusiasm for problem-solving and automation. I am excited about the prospect of bringing this experience and passion to next company I work for, where I can contribute to and thrive in a dynamic and innovative environment.
+
+
 **Projects**
 
 1. **Trackman Workflow Automation Project:**
