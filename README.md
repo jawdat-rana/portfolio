@@ -8,6 +8,7 @@ One of the aspects I find most rewarding in my career is problem-solving. I thri
 
 In essence, my journey reflects a commitment to continuous learning, goal orientation, and a deep enthusiasm for problem-solving and automation. I am excited about the prospect of bringing this experience and passion to next company I work for, where I can contribute to and thrive in a dynamic and innovative environment.
 
+[Link of my resume](./Resume/Resume.pdf)
 
 **Projects**
 
